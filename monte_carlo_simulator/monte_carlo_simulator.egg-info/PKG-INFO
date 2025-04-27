@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: monte_carlo_simulator
+Version: 1.0.0
+Summary: A Monte Carlo Simulator
+Author: Sree Prabhav Bandakavi
+Requires-Dist: numpy
+Requires-Dist: pandas

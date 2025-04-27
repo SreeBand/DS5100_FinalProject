@@ -1,0 +1,8 @@
+README.md
+die_game_analyzer.py
+setup.py
+monte_carlo_simulator.egg-info/PKG-INFO
+monte_carlo_simulator.egg-info/SOURCES.txt
+monte_carlo_simulator.egg-info/dependency_links.txt
+monte_carlo_simulator.egg-info/requires.txt
+monte_carlo_simulator.egg-info/top_level.txt
